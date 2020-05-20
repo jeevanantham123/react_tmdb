@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react_tmdb/static/css/main.748f0cc4.chunk.css",
+    "main.js": "/react_tmdb/static/js/main.9c8c7777.chunk.js",
+    "main.js.map": "/react_tmdb/static/js/main.9c8c7777.chunk.js.map",
+    "runtime-main.js": "/react_tmdb/static/js/runtime-main.4a47a93d.js",
+    "runtime-main.js.map": "/react_tmdb/static/js/runtime-main.4a47a93d.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/react_tmdb/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.6f199b2d.chunk.js": "/react_tmdb/static/js/2.6f199b2d.chunk.js",
+    "static/js/2.6f199b2d.chunk.js.map": "/react_tmdb/static/js/2.6f199b2d.chunk.js.map",
+    "index.html": "/react_tmdb/index.html",
+    "precache-manifest.6aed7b5048b1aeb19c52b0bf97316802.js": "/react_tmdb/precache-manifest.6aed7b5048b1aeb19c52b0bf97316802.js",
+    "service-worker.js": "/react_tmdb/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/react_tmdb/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.748f0cc4.chunk.css.map": "/react_tmdb/static/css/main.748f0cc4.chunk.css.map",
+    "static/js/2.6f199b2d.chunk.js.LICENSE.txt": "/react_tmdb/static/js/2.6f199b2d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a47a93d.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.6f199b2d.chunk.js",
+    "static/css/main.748f0cc4.chunk.css",
+    "static/js/main.9c8c7777.chunk.js"
+  ]
+}
