@@ -1,26 +1,20 @@
+//https://api.themoviedb.org/3/search/movie?api_key=d272326e467344029e68e3c4ff0b4059&language=en-US&query=spiderman
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-
-function App() {
+import Header from './components/Header';
+import Poster from './components/Poster';
+import Footer from './components/Footer';
+class App extends React.Component {
+ 
+ render(){
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header />
+      <Poster />
+      <Footer/>
     </div>
   );
+ }
 }
 
 export default App;
