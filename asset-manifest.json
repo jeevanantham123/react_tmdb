@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react_tmdb/static/css/main.d58d0030.chunk.css",
+    "main.css": "/react_tmdb/static/css/main.3fddc5a7.chunk.css",
     "main.js": "/react_tmdb/static/js/main.7cf9c7e7.chunk.js",
     "main.js.map": "/react_tmdb/static/js/main.7cf9c7e7.chunk.js.map",
     "runtime-main.js": "/react_tmdb/static/js/runtime-main.4a47a93d.js",
@@ -9,17 +9,17 @@
     "static/js/2.d0c1fba8.chunk.js": "/react_tmdb/static/js/2.d0c1fba8.chunk.js",
     "static/js/2.d0c1fba8.chunk.js.map": "/react_tmdb/static/js/2.d0c1fba8.chunk.js.map",
     "index.html": "/react_tmdb/index.html",
-    "precache-manifest.6a382dc425ed05718a93012866358ac0.js": "/react_tmdb/precache-manifest.6a382dc425ed05718a93012866358ac0.js",
+    "precache-manifest.489c10b5c35927820a2a1557385379a9.js": "/react_tmdb/precache-manifest.489c10b5c35927820a2a1557385379a9.js",
     "service-worker.js": "/react_tmdb/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/react_tmdb/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.d58d0030.chunk.css.map": "/react_tmdb/static/css/main.d58d0030.chunk.css.map",
+    "static/css/main.3fddc5a7.chunk.css.map": "/react_tmdb/static/css/main.3fddc5a7.chunk.css.map",
     "static/js/2.d0c1fba8.chunk.js.LICENSE.txt": "/react_tmdb/static/js/2.d0c1fba8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4a47a93d.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.d0c1fba8.chunk.js",
-    "static/css/main.d58d0030.chunk.css",
+    "static/css/main.3fddc5a7.chunk.css",
     "static/js/main.7cf9c7e7.chunk.js"
   ]
 }
